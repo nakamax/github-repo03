@@ -1,12 +1,2 @@
 step01
 step02
-step03/github
-step04/local
-step05/local
-step05/github
-step06/local
-step06/github
-step07/local
-step08/github
-step09/local
-step10/github
